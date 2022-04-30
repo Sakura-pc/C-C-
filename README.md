@@ -1,7 +1,5 @@
 # 超多电子书与视频资料分享  
- 
- 推荐一下自己的C语言学习地址：  
-[github C语言学习地址](https://github.com/tangtangcoding/C-CppLearning)  
+
 
 ## 知名大学计算机系开源课程收录：
 
