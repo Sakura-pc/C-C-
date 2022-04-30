@@ -1,24 +1,4 @@
 # 超多电子书与视频资料分享  
-
-**如果觉得不错，欢迎 Star**  
-一个人在维护这个仓库，很多书需要一步步慢慢上传，只能在闲暇时间慢慢更新，一个人的力量是有限的，请谅解一下。如果没有您要用的书，可以加一下个人微信：**cyuyan2020**，注明来意，我会慢慢添加上去的。  
-我也组建了微信学习交流群，欢迎各位添加下面微信加入，备注：github  
-
-<div align=center>
-<img src="https://github.com/tangtangcoding/C-C-/blob/main/1.png"  width="250" height="250"/>
-</div>
-
-同时分享一下我的个人公众号：**C语言与CPP编程**，分享C语言、C++、数据结构与算法、计算机基础、操作系统等，欢迎大家扫下面二维码关注！
-
-<div align=center>
-<img src="https://github.com/tangtangcoding/C-C-/blob/main/2.jpg"  width="200" height="200"/>
-</div>
-
-个人公众号：**程序员编程指南**，分享C语言、C++、java、python、go、安卓、数据结构域算法、计算机基础、操作系统等，欢迎大家扫下面二维码关注！
-
-<div align=center>
-<img src="https://github.com/tangtangcoding/C-C-/blob/main/3.jpg"  width="200" height="200"/>
-</div>
  
  推荐一下自己的C语言学习地址：  
 [github C语言学习地址](https://github.com/tangtangcoding/C-CppLearning)  
@@ -495,20 +475,5 @@
 ## 赞赏
 
 如果心情好，不介意赞赏一下，祝君 bug 退散
-<div align=center>
-<img src="https://github.com/tangtangcoding/C-C-/blob/main/6.jpg" width="300" height="450" />
-</div>
-
-
-同时欢迎关注我的知乎与B站
-
-<div align=center>
-<img src="https://github.com/tangtangcoding/C-C-/blob/main/4.jpg"  width="200" height="300"/>
-</div>
-
-<div align=center>
-<img src="https://github.com/tangtangcoding/C-C-/blob/main/5.png"  width="200" height="300"/>
-</div>
-
 
 
